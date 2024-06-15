@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color:white
+}
+
+.container{
+    border:2px solid purple;
+    width:fit-content;
+}
+
+
+#tableData td{
+ padding: 0px 30px;
+}
+
+
+#searchInput{
+    height:25px;
+    width:310px;
+    text-align: center;
+    font-size: 15px;
+}
+#sort-marketCap{
+    height:30px;
+    width:315px;
+    text-align: center;
+    font-size: 15px;
+} 
+#sort-percentge{
+    height:30px;
+    width:320px;
+    text-align: center;
+    font-size: 15px;
+} 
+
